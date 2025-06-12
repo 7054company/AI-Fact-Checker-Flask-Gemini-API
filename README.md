@@ -2,9 +2,9 @@
 
 This Flask app verifies facts using Google's Gemini API.
 
-## Run Locally
+## Live on Netlify
 
-```bash
+```
 
 https://transcendent-sable-22da4c.netlify.app/
 
