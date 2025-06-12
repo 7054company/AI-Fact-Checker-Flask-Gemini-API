@@ -2,6 +2,14 @@
 
 This Flask app verifies facts using Google's Gemini API.
 
+## Run Locally
+
+```bash
+
+https://transcendent-sable-22da4c.netlify.app/
+
+```
+
 ## Endpoints
 
 ### POST `/verify`
