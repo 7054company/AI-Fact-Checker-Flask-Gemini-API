@@ -4,11 +4,10 @@ This Flask app verifies facts using Google's Gemini API.
 
 ## Live on Netlify
 
-```
+
 
 https://transcendent-sable-22da4c.netlify.app/
 
-```
 
 ## Endpoints
 
